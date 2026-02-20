@@ -25,25 +25,25 @@
     {"id":"prod-e8aed489-019","name":"Pro Item 19","category":"books","price":135.74,"stock":121,"rating":4.2}
   ],
   "aggregations": {
-  "books": {
-    "count": 2,
-    "inventoryValue": 21636.95
-  },
-  "clothing": {
-    "count": 5,
-    "inventoryValue": 71202.57
-  },
-  "electronics": {
-    "count": 5,
-    "inventoryValue": 182304.99
-  },
-  "home": {
-    "count": 2,
-    "inventoryValue": 40440.06
-  },
-  "sports": {
-    "count": 5,
-    "inventoryValue": 126028.61
+    "books": {
+      "count": 2,
+      "inventoryValue": 21636.95
+    },
+    "clothing": {
+      "count": 5,
+      "inventoryValue": 71202.57
+    },
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 182304.99
+    },
+    "home": {
+      "count": 2,
+      "inventoryValue": 40440.06
+    },
+    "sports": {
+      "count": 5,
+      "inventoryValue": 126028.61
+    }
   }
-}
 }
